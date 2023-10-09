@@ -14,3 +14,12 @@ Policy and Solutions: Information about government policies, initiatives, or pro
 Call to Action: The infographic might conclude with a call to action, encouraging viewers to support charities, advocate for policy changes, or get involved in community efforts to alleviate child poverty.
 
 In summary, the infographic on child poverty in New Zealand is a powerful tool for conveying the urgency of the issue, promoting understanding, and mobilizing individuals and organizations to address this critical societal challenge.
+
+Sourced from:
+- https://www.manamokopuna.org.nz/documents/109/Summary-of-proposed-solutions-to-child-poverty.pdf
+- https://www.nzherald.co.nz/nz/child-poverty-high-housing-costs-emerge-as-significant-factor/HMSCMRKD7T4QN5LO5C6NPEDCXQ/
+- https://www.stats.govt.nz/information-releases/child-poverty-statistics-year-ended-june-2018
+- https://www.unicef.org.nz/in-new-zealand/fair-childhood
+- https://journals.sagepub.com/doi/10.1177/1403494817743894
+- https://www.employment.govt.nz/hours-and-wages/pay/minimum-wage/previous-rates/
+- https://www.livingwage.org.nz/
