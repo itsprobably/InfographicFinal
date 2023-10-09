@@ -1,4 +1,4 @@
-# InfographicFinal
+# Infographic on Child Poverty
 An infographic on child poverty in New Zealand, crafted using Tableau, is a visually compelling representation of critical data and insights regarding the issue of child poverty in the country. This infographic goes beyond raw statistics, presenting a clear and impactful narrative that raises awareness and encourages action.
 
 Key elements of this Tableau-created infographic may include:
